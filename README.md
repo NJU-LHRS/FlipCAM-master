@@ -1,5 +1,5 @@
 # FlipCAM-master
-
+FlipCAM: A Feature-level Flipping Augmentation Method for Weakly Supervised Building Extraction from High-Resolution Remote Sensing Imagery
 ## FlipCAM
 FlipCAM: A Feature-level Flipping Augmentation Method for Weakly Supervised Building Extraction from High-Resolution Remote Sensing Imagery
 
